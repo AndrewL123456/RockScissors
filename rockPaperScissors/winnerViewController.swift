@@ -107,8 +107,8 @@ class winnerViewController: UIViewController {
    }
       override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
           let ovc = segue.destination as! ViewController
-          ovc.compCount = compCount
-          ovc.playerCount = playerCount
+//          ovc.compCount = compCount
+//          ovc.playerCount = playerCount
     /*
     // MARK: - Navigation
 
